@@ -1,0 +1,27 @@
+1.app/
+
+Purpose:
+ Contains the core application code such as Models, Controllers, Middleware, and other classes that handle the business logic.
+
+2.routes/
+
+Purpose :
+Stores all the route definition files (web.php, api.php) 
+that define the URLs of the application and the actions they perform.
+
+
+
+3.resources/views/
+Purpose: Contains all the Blade template files for the application's HTML views.
+
+
+4.public/
+Purpose: The web root of the application ( index.php, CSS, JS, and images) accessible to the browser.
+
+
+
+5.database/
+Purpose: Contains migration files, seeders, and  factories used to set up and manage the database structure.
+
+config/
+Purpose: Stores configuration files for the application, settings for database, mail, cache etc/
